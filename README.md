@@ -44,7 +44,12 @@
 
 ## Antunes Tech
 
-Atuo com assistência e suporte em informática, realizando manutenção, diagnóstico, configuração e otimização de computadores e notebooks.
+
+Além da formação acadêmica, atuo profissionalmente através da **Antunes Tech**, na área de assistência e suporte em informática.
+
+Meu trabalho envolve **diagnóstico, manutenção, configuração e otimização de computadores e notebooks**, além do atendimento e suporte aos clientes.
+
+Essa experiência me proporciona contato direto com problemas reais de tecnologia e fortalece habilidades importantes para minha formação, como **análise de problemas, resolução de situações técnicas, organização e comunicação**
 
 <p>
   <a href="https://www.instagram.com/_antunestech/">
