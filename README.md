@@ -1,70 +1,71 @@
-# Olá, eu sou Mateus Antunes 👋
+# 👋 Olá, eu sou Mateus Antunes
 
-Estudante de Análise e Desenvolvimento de Sistemas, Técnico em Informática e desenvolvedor em formação, com foco em desenvolvimento backend.
+> Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend em formação | C# e .NET
 
-Atualmente, aprofundo meus conhecimentos em **C#**, **.NET**, **SQL** e **PostgreSQL**, buscando construir aplicações bem estruturadas e evoluir continuamente na resolução de problemas.
+## Sobre mim
 
-## Foco atual
+- Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em Informática, direcionando minha formação para o desenvolvimento de software.
 
-- Desenvolvimento backend com C# e .NET
-- Programação Orientada a Objetos
-- Banco de dados relacional com SQL e PostgreSQL
-- Versionamento e colaboração com Git e GitHub
-- Boas práticas de desenvolvimento de software
+- Atualmente, aprofundo meus conhecimentos em **C#**, **.NET**, **Programação Orientada a Objetos**, **APIs REST** e bancos de dados relacionais com **SQL** e **PostgreSQL**.
 
-<p align="center">
+- Tenho experiência prática com diagnóstico, manutenção, configuração e otimização de computadores e notebooks por meio da **Antunes Tech**. Essa atuação desenvolveu minha capacidade de análise, resolução de problemas e comunicação com clientes.
+
+- Busco minha primeira oportunidade na área de desenvolvimento, especialmente em backend, para aprender, contribuir com projetos e evoluir profissionalmente.
+
+## Habilidades colaborativas
+
+- Trabalho em equipe, comunicação clara e escuta ativa.
+- Organização, responsabilidade e disposição para aprender.
+- Autonomia para investigar problemas e buscar soluções.
+- Abertura para receber feedback e evolução contínua.
+
+# Habilidades técnicas — Tecnologias e conhecimentos
+
+### Foco atual
+
+<p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git,github" alt="C#, .NET, PostgreSQL, Git e GitHub" />
 </p>
 
-## Tecnologias e conhecimentos
+### Tecnologias utilizadas em projetos acadêmicos
 
-**Backend e software**
-
-`C#` `.NET` `POO` `MVC` `SQL` `PostgreSQL`
-
-**Desenvolvimento web**
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-**Outras linguagens e ferramentas**
-
-`C` `Python` `Git` `GitHub` `Visual Studio` `VS Code`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,python,html,css,js,bootstrap,postgres,git,github,vscode,visualstudio" alt="Tecnologias e ferramentas" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,python,html,css,js,bootstrap,postgres,git,github,vscode,visualstudio" alt="Tecnologias utilizadas" />
 </p>
 
-## Formação
+**Backend e desenvolvimento de software**  
+`C#` `.NET` `POO` `MVC` `SQL` `PostgreSQL`
 
-**Análise e Desenvolvimento de Sistemas — UNIP**  
-Em formação, com estudos em programação, banco de dados, desenvolvimento web, engenharia de software e desenvolvimento de aplicações.
+**Desenvolvimento web**  
+`HTML` `CSS` `JavaScript` `Bootstrap`
 
-**Técnico em Informática**  
-Formação voltada para manutenção, diagnóstico, configuração e suporte técnico de computadores e notebooks.
+**Linguagens e ferramentas**  
+`C` `Python` `Git` `GitHub` `Visual Studio` `VS Code`
 
-## Experiência prática — Antunes Tech
+## Antunes Tech
 
-Atuo na **Antunes Tech**, oferecendo assistência em informática e suporte técnico.
+Atuo com assistência e suporte em informática, realizando manutenção, diagnóstico, configuração e otimização de computadores e notebooks.
 
-Minha atuação inclui diagnóstico, manutenção, configuração e otimização de computadores e notebooks. Essa experiência fortalece competências importantes para a área de tecnologia, como análise de problemas, organização, comunicação e atendimento ao cliente.
-
-<p align="center">
+<p>
   <a href="https://www.instagram.com/_antunestech/">
-    <img src="https://img.shields.io/badge/Antunes%20Tech-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Antunes Tech" />
+    <img src="https://img.shields.io/badge/Antunes%20Tech-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram da Antunes Tech" />
   </a>
 </p>
 
-## Próximos passos
+## Estatísticas do GitHub
 
-Meu objetivo é iniciar minha trajetória profissional no desenvolvimento de software, contribuindo com projetos, consolidando minha base em backend com C# e .NET e expandindo meus conhecimentos para o ecossistema Java.
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tittozo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Mateus Antunes" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tittozo&layout=compact&theme=github_dark" alt="Linguagens mais utilizadas por Mateus Antunes" />
+</p>
 
 ## Contato
 
-<p align="center">
+<p>
   <a href="https://github.com/Tittozo">
     <img src="https://img.shields.io/badge/GitHub-Tittozo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Mateus Antunes" />
   </a>
   <a href="https://www.instagram.com/_antunestech/">
-    <img src="https://img.shields.io/badge/Antunes%20Tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Antunes Tech" />
+    <img src="https://img.shields.io/badge/Antunes%20Tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram da Antunes Tech" />
   </a>
 </p>
