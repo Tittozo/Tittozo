@@ -54,9 +54,13 @@ Atuo com assistência e suporte em informática, realizando manutenção, diagn�
 
 ## Estatísticas do GitHub
 
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tittozo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Mateus Antunes" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tittozo&layout=compact&theme=github_dark" alt="Linguagens mais utilizadas por Mateus Antunes" />
+<p align="center">
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Tittozo&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub de Mateus Antunes" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tittozo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas por Mateus Antunes" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tittozo&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
 ## Contato
